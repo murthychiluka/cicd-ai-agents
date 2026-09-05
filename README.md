@@ -80,6 +80,7 @@ Good:
 
 api_key = os.getenv("GEMINI_API_KEY")
 ```
+```text
 4. How Python Talks to Gemini
 
 We installed:
@@ -110,6 +111,7 @@ Gemini Model
 Response
       ↓
 Python program
+```
 ```text
 5. How Python Talks to Groq
 
